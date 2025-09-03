@@ -28,7 +28,7 @@ The work focused on building and optimizing Java-based applications, REST APIs, 
 ---
 
 ## ✨ Author
-👨‍💻 Ashes Senapati
-📧 E-mail(mailto:ashessenapati@gmail.com)  
+👨‍💻 **Ashes Senapati**  
+📧 [ashessenapati@gmail.com](mailto:ashessenapati@gmail.com)  
 🔗 [GitHub](https://github.com/ashessenapati)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ashes-senapati-46aa771a5)  
